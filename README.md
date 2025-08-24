@@ -7,3 +7,20 @@
 
 ## Paper  
 [![문서 아이콘](https://img.icons8.com/ios-filled/100/document.png)](https://github.com/minecode0606/PEGAN/blob/main/PEGAN_Upload.pdf)
+
+## License
+Copyright © 2025 MinseoKang
+
+This paper is provided solely for academic and personal reading purposes.  
+Readers are permitted to access and cite this work,  
+but may not, without prior written permission of the copyright holder:
+
+1. Copy, reproduce, distribute, transmit, or publicly display this work in whole or in part
+2. Use this work for commercial purposes
+3. Modify, adapt, or create derivative works based on this paper
+
+All rights are reserved by the copyright holder.  
+Any violation of these terms may result in legal liability under applicable copyright law.
+
+#### Contest
+[![삼성 휴먼테크 논문대상](https://img.icons8.com/ios-filled/100/document--v1.png)](https://humantech.samsung.com/)
