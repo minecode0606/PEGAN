@@ -23,4 +23,4 @@ All rights are reserved by the copyright holder.
 Any violation of these terms may result in legal liability under applicable copyright law.
 
 #### Contest
-[![삼성 휴먼테크 논문대상](https://img.icons8.com/ios-filled/100/document--v1.png)](https://humantech.samsung.com/)
+[[삼성 휴먼테크 논문대상]](https://humantech.samsung.com/)
